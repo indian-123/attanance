@@ -1,9 +1,9 @@
-*{
+/* *{
     box-sizing: border-box;
-    background-color: rgb(244, 246, 247);
+    background-color: rgb(59, 183, 224);
     padding: 0px;
     margin: 0px;
-}
+} */
 
 .hr{
     float: left;
